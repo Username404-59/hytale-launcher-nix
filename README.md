@@ -99,7 +99,7 @@ The FHS wrapper ensures the launcher can:
 
 ## Requirements
 
-- NixOS or Nix with flakes enabled
+- NixOS or Nix
 - x86_64-linux (the only platform Hytale supports)
 - Graphics drivers configured (Mesa/NVIDIA)
 
